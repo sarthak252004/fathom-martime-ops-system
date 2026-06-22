@@ -16,8 +16,8 @@ This is a backend API project made for managing ship maintenance, safety drills,
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/sarthak252004/fathom-maritime-ops-system.git](https://github.com/sarthak252004/fathom-maritime-ops-system.git)
-cd fathom-maritime-ops-system
+git clone https://github.com/sarthak252004/fathom-martime-ops-system.git(https://github.com/sarthak252004/fathom-martime-ops-system.git)
+cd fathom-martime-ops-system
 # install the requirements
 pip install -r requirements.txt
 
